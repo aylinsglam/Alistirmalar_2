@@ -1,4 +1,4 @@
-
+#rekürsif olmadı galiba ama kod çalışıyor
 def asal_mi(n):
     bolenler=list()
     a=int((n/2)+1)
